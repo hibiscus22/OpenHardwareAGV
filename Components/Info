@@ -1,3 +1,33 @@
-BORGI open hw motor hub
-https://github.com/occupycars/BORGI-WheelHubMotor
+All the information and resources used or interesting for each part of the vehicle (under construction)
+
+Additional info about:
+
+
+Synchronous belts:
+https://hvhindustrial.com/blog/types-timing-belts
+https://books.google.se/books?id=E-_gSWmjkzAC&pg=PA251&lpg=PA251&dq=stpd+belt&source=bl&ots=e0X6KAWZvy&sig=ACfU3U2D_CRyEQiH8x_WdlWzR5ZyiRWPlw&hl=en&sa=X&ved=2ahUKEwjum9rr_N_vAhXLlIsKHQ8zAWUQ6AEwCXoECAcQAw#v=onepage&q=stpd%20belt&f=false
+
+
+Belts vs chains
+https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-belt-drive-chain-drive-and-Gear-drive
+https://www.powertransmission.com/blog/a-look-at-belt-chain-and-gear-drive-technology/
+
+
+Batteries:
+https://norwatt.es/story-batteries-for-camper-vans--depth-of-discharge-and-cycle-life--en.html
+https://www.agvnetwork.com/agv-types-of-battery#lithium-vs-lead-cost
+https://www.directindustry.es/prod/shandong-goldencell-electronics-technology-co-ltd/product-86535-2226163.html
+
+Open source batteries links:
+https://github.com/Teslafly/OpenBMS
+https://wiki.opensourceecology.org/wiki/Open_Source_Battery_Pack
+https://hackaday.com/2019/12/13/a-modular-system-for-building-heavy-duty-18650-battery-packs/
+
+
+FoxBMS (battery controller) (demasiado tocho para lo nuestro, pero esta bien saber que existe)
+https://github.com/foxBMS/foxbms
+https://iisb-foxbms.iisb.fraunhofer.de/foxbms/docs/latest/index.html
+
+PLC OPEN SOURCE -  IEC 61131-3 - Only software
+https://www.openplcproject.com/
 
