@@ -55,5 +55,6 @@ git clone --branch <branchname> https://github.com/hibiscus22/OpenHardwareAGV
     - If the chosen components are feasible
     - Passing the standard
 - Do a decent github <:
+    - Make general brach a bit clearer
     - Workflow
     - More contributors
