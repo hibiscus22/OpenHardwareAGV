@@ -1,22 +1,22 @@
-SOME GENERAL LITERATURE TO GET A BIT OF INSPIRATION 
+#SOME GENERAL LITERATURE TO GET A BIT OF INSPIRATION 
 
 
-
-Licenses Stuff:
+##Licenses Stuff:
+CERN license: https://cern-ohl.web.cern.ch/home
 GNU GPL3: https://opensource.org/licenses/GPL-3.0
 GNU licenses: https://www.gnu.org/licenses/gpl-howto.html 
 OSH license: https://www.oshwa.org/faq/#what-is-a-license
 
-Open source AGV (hmm):
+##Open source AGV (hmm):
 https://mule-business-plan.readthedocs.io/en/latest/index.html
 
 https://www.giiresearch.com/report/kt762757-top-20-automated-guided-vehicle-agv-companies.html
 
 
-Open Source Hardware: definition and concept
+##Open Source Hardware: definition and concept
 https://freedomdefined.org/OSHW
 
-Concepts:
+##Concepts:
 https://www.kadtronix.com/robotics.htm
 
 Concept Design of AGV (Automated Guided Vehicle) Based on Image Detection and Positioning
@@ -46,8 +46,7 @@ https://jp.sharp/business/agv/package/ (en japones, muy interesante, parece el a
 
 
 
-
-OTHER AGVs THAT WERE NOT USED BUT STILL EXIST:
+##OTHER AGVs THAT WERE NOT USED BUT STILL EXIST:
 
 Cool but lacking info
 https://www.bastiansolutions.com/solutions/service/industrial-robotics/mobile-robotics/tompkins-robotics-tsort/

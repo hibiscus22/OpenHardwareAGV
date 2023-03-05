@@ -1,7 +1,7 @@
-[![Project License](https://img.shields.io/badge/license-CERN-green)]
-[![File Count](https://img.shields.io/github/directory-file-count/hibiscus22/OpenHardwareAGV)]
+[![Project License](https://img.shields.io/badge/license-CERN-green)](https://github.com/hibiscus22/OpenHardwareAGV/blob/main/LICENSE)
+![File Count](https://img.shields.io/github/directory-file-count/hibiscus22/OpenHardwareAGV)
 [![GitHub stars](https://img.shields.io/github/stars/hibiscus22/OpenHardwareAGV?style=social)](https://github.com/hibiscus22/OpenHardwareAGV/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/hibiscus22/OpenHardwareAGV?style=social)]
+![GitHub Forks](https://img.shields.io/github/forks/hibiscus22/OpenHardwareAGV?style=social)
 
 
 # OpenHardwareAGV
