@@ -1,5 +1,7 @@
+https://img.shields.io/github/stars/hibiscus22/OpenHardwareAGV?style=social
+
 # OpenHardwareAGV
-Repository for our Final Degree Project, if possible we'll try to help it become a real Open Source project. Thanks for visiting!
+Repository that hopefully may guide you in the construction of an Open Source Vehicle. Thanks for visiting!
 
 ## What is this exactly?
 
