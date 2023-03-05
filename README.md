@@ -32,16 +32,28 @@ git clone --branch <branchname> https://github.com/hibiscus22/OpenHardwareAGV
 
 
 ## What we've done so far (what you can find in the report):
-- Defined and limited a specific used for AGV: towing AGV which can work as underride.
-- Display the components and basics of AGV building
-- Chose and applied an OSH method (Oberloier and Pearce)
-- Developed and studied choosing methods for battery, motors, mechanics, sensors, and more superficially, processsing hardware and software
-- Worked on how to get the vehicle through the industrial standard (ISO 3691-4:2020)
-- CAD models of the frame and bodywork, tested with Finite Element Analysis.
+- Main Branch (generals)
+    - Defined and limited a specific used for AGV: towing AGV which can work as underride.
+    - Display the components and basics of AGV building
+    - Chose and applied an OSH method (Oberloier and Pearce)
+    - Developed and studied choosing methods for battery, motors, mechanics, sensors, and more superficially, processsing hardware and software
+    - Worked on how to get the vehicle through the industrial standard (ISO 3691-4:2020)
+    - CAD models of the frame and bodywork, tested with Finite Element Analysis.
+- Construction Branch
+    - Showing the process of construction 
+    - Testing of previous work
+
+
 
 ## What we want to accomplish
-- Building a real model
+- Building more real models
+- Creating a consistent section with the software
+    - Movement Control
+    - Guidance
+    - Fleet control
 - Testing
-- Passing the standard
-- Programming
+    - If the chosen components are feasible
+    - Passing the standard
 - Do a decent github <:
+    - Workflow
+    - More contributors
